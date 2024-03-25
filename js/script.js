@@ -17,8 +17,8 @@ console.log( conversione, typeof conversione);
 
 // variabile prezzi e prezzi scontati
 let prezzo = numberskm * conversione;
-let prezzo20 = prezzo * (20/100)  
-let prezzo40 = prezzo * (40/100)
+let prezzo20 = prezzo * (80/100)  
+let prezzo40 = prezzo * (60/100)
 // condizioni di funzionamento
 // aggiunta di tofixed2 per ridurre a due e indicare i centesimi
 if (age < 18){
