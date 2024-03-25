@@ -10,9 +10,9 @@ L'output del prezzo finale va messo fuori in forma umana (con massimo due decima
 
 
 
-1[x] inserire numero kiliometri
-2[ ] inserire eta passegero
-3[ ] Calcolare prezzo biglietto
-    se l'eta e sotto i 18 va apllicato 20%
-    altrimenti se l'eta e sopra o uguale ai 65 40%
-4[ ] stampa prezzo   
+1[X] inserire numero kiliometri
+2[X] inserire eta passegero
+3[X] Calcolare prezzo biglietto
+   3.1 se l'eta e sotto i 18 va apllicato 20%
+   3.2altrimenti se l'eta e sopra o uguale ai 65 40%
+4[X] stampa prezzo   
