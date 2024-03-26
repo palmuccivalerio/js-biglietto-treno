@@ -1,11 +1,11 @@
 // INPUT
-let age = prompt("Quanti anni hai?"); // sting | null
+const age = prompt("Quanti anni hai?"); // sting | null
 // appare quanti anni hai
 console.log( age, typeof age);
 // stampa eta e tipo
 age = parseInt(age); // number
 
-let numberskm = prompt("Numero kilometri?"); // sting | null
+const numberskm = prompt("Numero kilometri?"); // sting | null
 // appare numero chilometri
 console.log( numberskm, typeof numberskm);
 // stampa numerokm e tipo
